@@ -1,5 +1,11 @@
 - 30X40 repair garage
 
+- we might need civil?
+- ADA parking?
+- keep masonry chimney?
+
+
+
 - Questions
 	- Can a repair garage fall under F-1? 
 	- or is it S-1 and 
@@ -53,9 +59,9 @@
 	- [1104.4 Multistory Buildings and Facilities](https://up.codes/viewer/wyoming/ibc-2015/chapter/11/accessibility#1104.4)
 		- 1. An accessible route is not required to stories and mezzanines that have an aggregate area of not more than 3,000 square feet (278.7 m2) and are located above and below accessible levels.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNjE4OTEyLDQ5MTE1NTYyNiwtMTQ3Mz
-cyOTUyMCwtMTYwNzM2NTg0MCwxNjk4NDA3MjkzLC0xNjIyOTYy
-MTcyLDExODMzMDg4OTQsMzE0Mzk3OTIwLC01NDI3MDAwNzMsLT
-E1NTE2OTg2MjEsLTUyMDE4Mjg3MywtODYwMjc0NDgyLDE1Nzk5
-MTQ0MjFdfQ==
+eyJoaXN0b3J5IjpbODk1OTM1MDc3LDUxMjYxODkxMiw0OTExNT
+U2MjYsLTE0NzM3Mjk1MjAsLTE2MDczNjU4NDAsMTY5ODQwNzI5
+MywtMTYyMjk2MjE3MiwxMTgzMzA4ODk0LDMxNDM5NzkyMCwtNT
+QyNzAwMDczLC0xNTUxNjk4NjIxLC01MjAxODI4NzMsLTg2MDI3
+NDQ4MiwxNTc5OTE0NDIxXX0=
 -->
