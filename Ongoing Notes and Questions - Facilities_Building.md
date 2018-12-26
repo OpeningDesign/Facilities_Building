@@ -1,18 +1,20 @@
-- Zoning: 
+ - Site Plan Rotated by 0° 28' 05"   = 0.4680556°
+
+ - Zoning: 
 	- CC-T
 	- WP-18
 
 
 
-- 30X40 repair garage
+ - 30X40 repair garage
 
-- we might need civil?
-- ADA parking?
-- keep masonry chimney?
+ - we might need civil?
+ - ADA parking?
+ - keep masonry chimney?
 
 
 
-- Questions
+ - Questions
 	- Can a repair garage fall under F-1? 
 	- or is it S-1 and 
 		- 406.8 Repair Garages (special use)
@@ -22,7 +24,7 @@
 			- if less than 10%
 
 
-- Code
+ - Code
 	- [311.2 Moderate-Hazard Storage, Group S-1](https://up.codes/viewer/wyoming/ibc-2015/chapter/3/use-and-occupancy-classification#311.2)
 		- Motor vehicle [repair](https://up.codes/viewer/wyoming/ibc-2015/chapter/2/definitions#repair) garages complying with the maximum allowable quantities of [hazardous materials](https://up.codes/viewer/wyoming/ibc-2015/chapter/2/definitions#hazardous_materials) listed in [Table 307.1](https://up.codes/viewer/wyoming/ibc-2015/chapter/3/use-and-occupancy-classification#307.1)(1) (see [Section 406.8](https://up.codes/viewer/wyoming/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#406.8))
 			- [406.8 Repair Garages](https://up.codes/viewer/wyoming/ibc-2015/chapter/4/special-detailed-requirements-based-on-use-and-occupancy#406.8)
@@ -65,9 +67,10 @@
 	- [1104.4 Multistory Buildings and Facilities](https://up.codes/viewer/wyoming/ibc-2015/chapter/11/accessibility#1104.4)
 		- 1. An accessible route is not required to stories and mezzanines that have an aggregate area of not more than 3,000 square feet (278.7 m2) and are located above and below accessible levels.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzODgwOTcsODk1OTM1MDc3LDUxMjYxOD
-kxMiw0OTExNTU2MjYsLTE0NzM3Mjk1MjAsLTE2MDczNjU4NDAs
-MTY5ODQwNzI5MywtMTYyMjk2MjE3MiwxMTgzMzA4ODk0LDMxND
-M5NzkyMCwtNTQyNzAwMDczLC0xNTUxNjk4NjIxLC01MjAxODI4
-NzMsLTg2MDI3NDQ4MiwxNTc5OTE0NDIxXX0=
+eyJoaXN0b3J5IjpbLTY3NTUwMjY4Nyw0MDM4ODA5Nyw4OTU5Mz
+UwNzcsNTEyNjE4OTEyLDQ5MTE1NTYyNiwtMTQ3MzcyOTUyMCwt
+MTYwNzM2NTg0MCwxNjk4NDA3MjkzLC0xNjIyOTYyMTcyLDExOD
+MzMDg4OTQsMzE0Mzk3OTIwLC01NDI3MDAwNzMsLTE1NTE2OTg2
+MjEsLTUyMDE4Mjg3MywtODYwMjc0NDgyLDE1Nzk5MTQ0MjFdfQ
+==
 -->
