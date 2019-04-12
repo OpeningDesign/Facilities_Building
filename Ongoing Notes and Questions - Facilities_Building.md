@@ -66,11 +66,34 @@
 			- 3. [Walls](https://up.codes/viewer/wyoming/ibc-2015/chapter/2/definitions#wall) shall be permitted to terminate at the underside of noncombustible roof sheathing, deck or slabs where both buildings are provided with not less than a Class B [roof covering](https://up.codes/viewer/wyoming/ibc-2015/chapter/2/definitions#roof_covering). Openings in the roof shall not be located within 4 feet (1220 mm) of the _[fire wall](https://up.codes/viewer/wyoming/ibc-2015/chapter/2/definitions#fire_wall)_.
 	- [1104.4 Multistory Buildings and Facilities](https://up.codes/viewer/wyoming/ibc-2015/chapter/11/accessibility#1104.4)
 		- 1. An accessible route is not required to stories and mezzanines that have an aggregate area of not more than 3,000 square feet (278.7 m2) and are located above and below accessible levels.
+
+
+
+---
+
+
+
+Eric Halverson - Traffic
+ephalvorson@_cityofmadison.com_
+
+
+Eberhardt, Megan
+meberhardt@cityofmadison.com
+
+Stanley, Brenda
+bstanley@cityofmadison.com
+
+
+	
+Christy Bachmann
+City of Madison - Engineering - Streets and Sidewalks - Principle Engineer
+CBachmann@cityofmadison.com
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTUwMjY4Nyw0MDM4ODA5Nyw4OTU5Mz
-UwNzcsNTEyNjE4OTEyLDQ5MTE1NTYyNiwtMTQ3MzcyOTUyMCwt
-MTYwNzM2NTg0MCwxNjk4NDA3MjkzLC0xNjIyOTYyMTcyLDExOD
-MzMDg4OTQsMzE0Mzk3OTIwLC01NDI3MDAwNzMsLTE1NTE2OTg2
-MjEsLTUyMDE4Mjg3MywtODYwMjc0NDgyLDE1Nzk5MTQ0MjFdfQ
-==
+eyJoaXN0b3J5IjpbODczNzQ2NDgsLTk3NzI0MjEyMywtNjc1NT
+AyNjg3LDQwMzg4MDk3LDg5NTkzNTA3Nyw1MTI2MTg5MTIsNDkx
+MTU1NjI2LC0xNDczNzI5NTIwLC0xNjA3MzY1ODQwLDE2OTg0MD
+cyOTMsLTE2MjI5NjIxNzIsMTE4MzMwODg5NCwzMTQzOTc5MjAs
+LTU0MjcwMDA3MywtMTU1MTY5ODYyMSwtNTIwMTgyODczLC04Nj
+AyNzQ0ODIsMTU3OTkxNDQyMV19
 -->
