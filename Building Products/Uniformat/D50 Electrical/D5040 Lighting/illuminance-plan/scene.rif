@@ -1,0 +1,14 @@
+scene=scene.rad
+
+view=v1 -vtl -vp -55 290 36 -vd 0 0 -1 -vu 0 1 0 -vv 140 -vh 140
+
+render=-i -av 0 0 0
+rvu=-i -av 0 0 0
+
+RESOLUTION=1000 1000
+VARIABILITY=M
+QUALITY=L
+DETAIL=M
+INDIRECT=2
+AMBFILE=scene.amb
+REPORT=.25

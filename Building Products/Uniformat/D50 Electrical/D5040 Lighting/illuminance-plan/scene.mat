@@ -1,0 +1,214 @@
+# based on http://spectraldb.com/materials/1445
+void plastic red-brick
+0
+0
+5 0.2244 0.1098 0.0753 0.0000 0.0000
+
+# based on http://spectraldb.com/materials/1341
+void plastic dark-facade-metal
+0
+0
+5 0.1040 0.1119 0.1243 0.0143 0.0000
+
+void plastic concrete-paving
+0
+0
+5 .3 .3 .3 0 0
+
+void plastic asphalt
+0
+0
+5 .1 .1 .1 0 0
+
+void plastic vegetation
+0
+0
+5 .2 .2 .2 0 0
+
+void plastic fallback
+0
+0
+5 .5 .5 .5 0 0
+
+void alias IfcBeam fallback
+# Conservative
+void alias IfcBuildingElementPro vegetation
+void alias IfcDoor fallback
+void alias IfcRailing fallback
+void alias IfcSlab fallback
+void alias IfcStair fallback
+void alias surface-style-108861-new-steel-beams-(size-t.b.d.) fallback
+void alias surface-style-1120573-grade-(slope-2%-min-away-from-building) concrete-paving
+void alias surface-style-1120602-slab-to-remain-(replace-if-no-positiv.000 fallback
+void alias surface-style-1120602-slab-to-remain-(replace-if-no-positiv.001 fallback
+void alias surface-style-1120602-slab-to-remain-(replace-if-no-positiv.002 fallback
+void alias surface-style-1120602-slab-to-remain-(replace-if-no-positiv.003 fallback
+void alias surface-style-1120602-slab-to-remain-(replace-if-no-positive-dr fallback
+void alias surface-style-1124625-existing-concrete-slab-to-remain concrete-paving
+void alias surface-style-1155455-gravel-parking asphalt
+void alias surface-style-1155624-existing-structure fallback
+void alias surface-style-1168165-concrete-parking concrete-paving
+void alias surface-style-1172608-existing-asphalt-paving asphalt
+void alias surface-style-1176966-galv.-steel-guardrail---42"-min.-height fallback
+void alias surface-style-21809-existing-cmu-wall fallback
+void alias surface-style-21925-existing-concrete-pilaster fallback
+void alias surface-style-22022-existing-concrete-columns-along-g.l. fallback
+void alias surface-style-25099-aluminum fallback
+void alias surface-style-25129-metal---paint-finish---grey fallback
+void alias surface-style-25141-wood---birch fallback
+void alias surface-style-32998-overhead-garage-door fallback
+void alias surface-style-33411-existing-concrete-beam fallback
+void alias surface-style-33736-gypsum-wall-board fallback
+void alias surface-style-34075-cherry fallback
+void alias surface-style-37790-existing-concrete-slab-at-mezz.-to-remain fallback
+void alias surface-style-37914-new-membrane-roofing-&-rigid-insulation-ove fallback
+void alias surface-style-38029-existing-foundation-to-remain fallback
+void alias surface-style-38545-existing-brick-shaft fallback
+void alias surface-style-38898-existing-building red-brick
+void alias surface-style-39065-structural-standing-seam dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.000 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.001 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.002 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.003 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.004 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.005 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.006 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.007 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insul.008 dark-facade-metal
+void alias surface-style-39232-new-metal-panel-over-metal-girts-(insulated dark-facade-metal
+void alias surface-style-49338-existing-footing-to-remain fallback
+void alias surface-style-53985-relocate-furance fallback
+void alias surface-style-54160-relocate-existing-condensers fallback
+void alias surface-style-55921-new-steel-columns-along-g.l.-(size-t.b.d) fallback
+void alias surface-style-614405-new-concrete-foundation-(size-t.b.d.) fallback
+void alias surface-style-615088-new-concrete-pier-(size-t.b.d.) fallback
+void alias surface-style-615185-new-concrete-footing-(size-t.b.d.) fallback
+void alias surface-style-617372-gyp.-bd-(see-'wall-tag'-&-'layer-mater.000 fallback
+void alias surface-style-617372-gyp.-bd-(see-'wall-tag'-&-'layer-mater.001 fallback
+void alias surface-style-617372-gyp.-bd-(see-'wall-tag'-&-'layer-mater.002 fallback
+void alias surface-style-617372-gyp.-bd-(see-'wall-tag'-&-'layer-mater.003 fallback
+void alias surface-style-617372-gyp.-bd-(see-'wall-tag'-&-'layer-material- fallback
+void alias surface-style-617769-new-cmu-infill fallback
+void alias surface-style-621905-exposed-trash-bin fallback
+void alias surface-style-622079-existing-retaining-wall fallback
+void alias surface-style-623815-new-asphalt-paving asphalt
+void alias surface-style-889197-sink fallback
+void alias surface-style-889208-bottle-trap fallback
+void alias surface-style-889219-frameless-mirror fallback
+void alias surface-style-949153-floor-mounted-toilet fallback
+void alias surface-style-949301-toilet-paper-dispenser fallback
+void alias surface-style-957141-grab-bars---at-ada-restrooms-only fallback
+
+### void plastic 173_3_5/8"_WHITE-PAINTED_BRICK_(DISTRESSED/SANDBLASTED)
+### 0
+### 0
+### 5 .7 .7 .7 0 0
+### 
+### void plastic 440830_GRADE
+### 0
+### 0
+### 5 .2 .2 .2 0 0
+### 
+### void plastic 460739_SIDEWALK
+### 0
+### 0
+### 5 .3 .3 .3 0 0
+### 
+### void plastic 457830_PARKING_LOT_PAVING
+### 0
+### 0
+### 5 .1 .1 .1 0 0
+### 
+### void plastic 200406_PAINTED_STEEL_C_CHANNEL
+### 0
+### 0
+### 5 .1 .1 .1 0 0
+### 
+### void plastic 200424_GARAGE_DOOR
+### 0
+### 0
+### 5 .2 .2 .2 0 0
+### 
+### void plastic 200442_Plastic_-_Loading_Systems_-_Polyvinylchlorid
+### 0
+### 0
+### 5 .5 .5 .5 0 0
+### 
+### void plastic 200502_Metal_-_Loading_Systems_-_Galvanised_steel
+### 0
+### 0
+### 5 .3 .3 .3 0 0
+### 
+### # Being conservative, actual RAL 9017 is super dark
+### void plastic 200904_Paint_-_RAL_9017
+### 0
+### 0
+### 5 .1 .1 .1 0 0
+### 
+### void plastic 349_1"_BRICK_VENEER
+### 0
+### 0
+### 5 .3 .3 .3 0 0
+### 
+### void plastic 401430_BUTT_GLAZED_(WITHOUT_VERT._MULLION)_STOREFRONT_W/_'FIN'_
+### 0
+### 0
+### 5 .5 .5 .5 0 0
+### 
+### void plastic 401745_BRICK_INSIDE
+### 0
+### 0
+### 5 .3 .3 .3 0 0
+### 
+### void plastic 401966_3/4"_WOOD_VENEER_(PATTEN_AND_SIZE_T.B.D.)
+### 0
+### 0
+### 5 .6 .6 .6 0 0
+### 
+### # This isn't actually plastic, but we have no interior lights so it doesn't matter
+### void plastic 402358_BUTT_GLAZED_STOREFRONT_WITH_VERTICAL_MULLION
+### 0
+### 0
+### 5 .5 .5 .5 0 0
+### 
+### void plastic 407711_CORRUGATED_ALUMINIUM_PANELS
+### 0
+### 0
+### 5 .5 .5 .5 0 0
+### 
+### void plastic 463324_interior_floor
+### 0
+### 0
+### 5 .3 .3 .3 0 0
+### 
+### # Conservatively this is painted cool earth colours :)
+### void plastic 463378_TPO_MEMBRANE
+### 0
+### 0
+### 5 .7 .7 .7 0 0
+### 
+### void plastic 463548_.25"_FIBER_CEMENT_PANEL_W/_EXPOSED_FASTENERS
+### 0
+### 0
+### 5 .6 .6 .6 0 0
+### 
+### # Doesn't matter
+### void plastic 464569_FAUX_WINDOW_WITH_VERTICAL_MULLIONS
+### 0
+### 0
+### 5 .5 .5 .5 0 0
+### 
+### void plastic 466076_Black_Plastic
+### 0
+### 0
+### 5 .1 .1 .1 0 0
+### 
+### void plastic 466112_Aluminum
+### 0
+### 0
+### 5 .5 .5 .5 0 0
+### 
+### void plastic IfcWallStandardCase
+### 0
+### 0
+### 5 .5 .5 .5 0 0

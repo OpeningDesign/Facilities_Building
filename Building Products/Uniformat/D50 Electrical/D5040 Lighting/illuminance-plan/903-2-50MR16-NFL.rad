@@ -1,0 +1,28 @@
+# ies2rad -t metal halide -m .9
+# Dimensions in meters
+#<IESNA:LM-63-1995
+#<[TEST]
+#<[LUMCAT]903-2-50MR16-NFL
+#<[LAMPCAT] BARE LAMP DATA FOR 903
+#<[LAMP] Q50MR16/C/NFL30°-EXK
+#<[MANUFAC] EATON - LUMIERE (FORMER COOPER LIGHTING)
+#<[_SEARCH_APPLICATION] Indoor, Outdoor, Architectural, Area, Commercial, Facade, Hospitality, Hotel, Residential, Stairway, Decorati
+#<ve, Downlight, Uplight, Corrosion Resistant, Wet Location
+#<[_SEARCH_MOUNTING] Wall
+#<[_SEARCH_SOURCETYPE] LED
+# 0 watt luminaire, lamp*ballast factor = 1
+
+void brightdata 903-2-50MR16-NFL_dist
+4 corr 903-2-50MR16-NFL.dat source.cal src_theta 
+0
+1 1.14592e+06
+
+903-2-50MR16-NFL_dist light 903-2-50MR16-NFL_light
+0
+0
+3 0.975429 0.771599 0.375915
+
+903-2-50MR16-NFL_light sphere 903-2-50MR16-NFL.s
+0
+0
+4 0 0 0 0.0005

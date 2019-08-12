@@ -1,0 +1,39 @@
+# ies2rad -t metal halide -m .9
+# Dimensions in meters
+#<IESNA:LM-63-2002
+#<[TEST]P14208
+#<[TESTLAB]INNOVATIONS CENTER-P1
+#<[ISSUEDATE]10/24/13
+#<[LUMCAT]GAT-080-LED-E1-3-SPUN-CAGE-3000
+#<[LUMINAIRE]McGRAW-EDISON POST TOP WITH A TYPE III SOLID TOP
+#<[MORE]PRISMATIC REFRACTOR WITH ARCHITECTURAL CAGE
+#<[LAMP][6] 3000K LEDS
+#<[BALLAST][2] ELECTRONIC DRIVERS
+#<[_MOUNTING]POST TOP
+#<[_WARNING ABSOLUTE]
+#<[_ABSOLUTE]NOTE: DATA SHOWN IS ABSOLUTE FOR THE SAMPLE PROVIDED.
+#<[_ABSOLUTELUMENS]5778
+#<[MANUFAC] EATON - McGRAW-EDISON (FORMER COOPER LIGHTING)
+#<[_SEARCH_APPLICATION] Outdoor, Architectural, Area, Amusement, Commercial, Educational, Entertainment, Government, Healthcare, Hosp
+#<itality, Hotel, Parking, Parks, Pathway, Pedestrian, Residential, Retail, Roadway, Sidewalk, Site, Walkway, Ambient
+#<[MORE] Decorative
+#<[_SEARCH_MOUNTING] Arm, Pole, Post Top, Wall
+#<[_SEARCH_SOURCETYPE] MH
+#<[_SEARCH_CRI] 80
+#<[_SEARCH_COLORTEMP] 3000K
+# 97.7 watt luminaire, lamp*ballast factor = 1
+
+void brightdata GAT-080-LED-E1-3-SPUN-CAGE-3000_dist
+5 corr GAT-080-LED-E1-3-SPUN-CAGE-3000.dat source.cal src_phi2 src_theta 
+0
+1 10.5099
+
+GAT-080-LED-E1-3-SPUN-CAGE-3000_dist light GAT-080-LED-E1-3-SPUN-CAGE-3000_light
+0
+0
+3 0.975429 0.771599 0.375915
+
+GAT-080-LED-E1-3-SPUN-CAGE-3000_light sphere GAT-080-LED-E1-3-SPUN-CAGE-3000.s
+0
+0
+4 0 0 0 0.1651
